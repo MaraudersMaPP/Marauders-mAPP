@@ -1,20 +1,20 @@
 ##Esri WebApp Challenge: Marauders-mAPP GitHub Repository
 
 ----
-#Team Members
+###Team Members
 
-**Anastassios Dardas** 
+*Anastassios Dardas* 
 
-**Spencer Elford**
+*Spencer Elford*
 
-**Karl Chastko**
+*Karl Chastko*
 
 
-#Limitations & Known Issues
+###Limitations & Known Issues
 
-#Assumptions
+###Assumptions
 
-#Data Sources
+###Data Sources
 Several Publically Available Datasets were utilized in the App's Construction
 
 *Spatial Datasets: Used on License from the City of Edmonton Open Data Portal*
@@ -23,7 +23,7 @@ Several Publically Available Datasets were utilized in the App's Construction
      3. Weather Gauge Data(2010, 2011, 2012, 2013, 2014, 2015)
         (Interpolated and Averaged to determined total rainfall over growing season)
           
-#References
+###References
         
       
 
