@@ -1,6 +1,5 @@
 #Mission Statement
 ----
-
 Potential2Grow-Edmonton is a webapp that allows local Edmonton residents to visualize and inform themselves of the potential for 
 Urban farming in their community. Urban Farming, which is the process of cultivation, processing and distribution of locally grown
 food within an urban environment. Urban Agriculture in Canada has taken to form of a social movement to promote organic food 
