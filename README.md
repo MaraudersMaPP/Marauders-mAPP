@@ -21,7 +21,7 @@ Several Publically Available Datasets were utilized in the App's Construction
 * Neighbourhoods
 * Rooflines
 * Weather Gauge Data(2010, 2011, 2012, 2013, 2014, 2015)
-       (Interpolated and Averaged to determined total rainfall over growing season)
+
           
 ###References
         
