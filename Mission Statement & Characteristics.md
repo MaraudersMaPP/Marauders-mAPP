@@ -10,7 +10,7 @@ in food security.
 
 #WebApp Characteristics
 ----
-*Unique Functionality*
+**Unique Functionality**
 
 "Potential2Grow - Edmonton" is an app designed to supplement a user's interest in Urban Agriculture through an interactive web app. 
 The app allows the user to identify their neighbourhood (or a neighbourhood of interest) through an interactive map. 
@@ -20,7 +20,7 @@ of the garden. The app then provides the growing potentials for the area drawn i
 recovered from the area and the basic irrigattion requirements to sustain such production. The User may then recieve the option 
 to investigate the potential of nearby buildings to act as rain-water collectors by clicking on building rooftops.
 
-*Location and Scope*
+**Location and Scope**
 
 Edmonton as a city, frequently ranks among the highest in Canada for sutainable development acitivties and open data policies. 
 
@@ -32,16 +32,16 @@ It is through the development of this Esri WebApp, that local Edmonton residents
 can provide their communities.
 Edmonton's robust open data portal was utilized for this App. The portal, which consists of nearly 1000 datasets, is the largest in canada and provides a wealth of information for public usage. 
 
-*Design and Development*
+**Design and Development**
 
 -Refer to Tasos-
 
-*Data Creation*
+**Data Creation**
  
- -Refer to Tasos: Automating HTML creation, JSON Conversion
- -Scratch built user interface
- -Stuff about interpolating rain gauge data
- -calculating zonal sum of rain catchment based on roofline footprint
- -parcelling building polygons by neighbourhood
- -conversion to JSON Derulo for all 388 Parcels to reduce processing requirements
+ 1. Refer to Tasos: Automating HTML creation, JSON Conversion
+ 2. Scratch built user interface
+ 3. Stuff about interpolating rain gauge data
+ 4. calculating zonal sum of rain catchment based on roofline footprint
+ 5. parcelling building polygons by neighbourhood
+ 6. conversion to JSON Derulo for all 388 Parcels to reduce processing requirements
  
