@@ -9,6 +9,10 @@
 
 *Karl Chastko*
 
+###App Usage
+From the main page, the user may click the start button to continue to the interactive neighbourhoods map. A helpful infographics instructs the user of the functionality of this page, instructing them to select a neighbourhood they are interested to explore the potential to grow vegetables. The infographics also directs the user towards a demo video where they may watch a video of the app in action. 
+Upon selecting a neighbourhood, the user is taken to a residential scale map where individual buildings can be seen. The user may then choose to being drawing their garden by selecting the draw icon in the top left. Following the instructions in the popup infographic, the user can begin to construct their garden and view the "Potential2Grow" data for the garden they have drawn. This includes the area of the garden as well as the expected yields for each vegetable. Additionally, the user is directed towards the water requirements field to view how much water is required to supplement their garden. If the user wishes to view the potential for rainwater collection, they need only click on nearby buildings to see the total catchment calculated over a growing season. The option exists for drawing of multiple gardens to compare the "Potential2Grow" statistics.
+
 
 ###Limitations & Known Issues
 * The App is limited by the available imagery as provided in the Esri Imagery Basemap, where low resolution exists, the streets basemap acts as an alternative.
