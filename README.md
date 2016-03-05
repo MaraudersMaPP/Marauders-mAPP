@@ -23,7 +23,7 @@ Upon selecting a neighbourhood, the user is taken to a residential scale map whe
 * All values are estimations made on current climate data. Rainwater collection values are based on interpolated rain data from local rain gauges ove the previous 6 year period.
 * Building rooflines are only approximate representations of actual roofline and some innacuracy is inherently present
 * Vegetable yields are calculated on an area and water requirement basis and optimal nutrient/fertilization fulfillments are assumed.
-* Growing seasons are assummed to be May 1st - September 30th.
+* Growing seasons are assumed to be May 1st - September 30th.
 
 ###Data Sources
 Several Publically Available Datasets were utilized in the App's Construction
