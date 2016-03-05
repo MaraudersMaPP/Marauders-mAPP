@@ -32,16 +32,14 @@ It is through the development of this Esri WebApp, that local Edmonton residents
 can provide their communities.
 Edmonton's robust open data portal was utilized for this App. The portal, which consists of nearly 1000 datasets, is the largest in canada and provides a wealth of information for public usage. 
 
-**Design and Development**
+**Development & Data Creation**
 
--Refer to Tasos-
+The app is scratchbuilt utilizing the Esri Leaflet Api.
+A rain map is required to determine estimated precipitation for catchment by rain harvesters.
+To do this, rain-gauges datasets are averaged over 6 years and an interpolated rain map is generated to estimate growing season precipitation across the city.
+Individual webpages for each neighbourhood are created to minimize processing power required to run the app and increase efficiency. To deal with the sheer scale of the Neighbourhood and Rooflines shapefiles, Esri ArcGIS was utilized to break down the file into individual shapefiles by neighbourhood. Indivdual catchment statistics are calculated for each building in every neighbourhood and recorded as attributes.
+A custom python script is developed to convert the 383 indivual neighbourhood and 383 roofline files to json, and generate linked individual webmaps with included custom built Potential2Grow calculator (Based off the Esri Leaflet-Measure Area Tool). The script is designed to fully recreated the User Interface, functionality and design for each neighbourhood and link them to the master neighbourhood map on the main page.
+Custom instructional infographics and icons are created using PiktoChart and Microsoft Powerpoint.
 
-**Data Creation**
- 
- 1. Refer to Tasos: Automating HTML creation, JSON Conversion
- 2. Scratch built user interface
- 3. Stuff about interpolating rain gauge data
- 4. calculating zonal sum of rain catchment based on roofline footprint
- 5. parcelling building polygons by neighbourhood
- 6. conversion to JSON Derulo for all 388 Parcels to reduce processing requirements
+
  
