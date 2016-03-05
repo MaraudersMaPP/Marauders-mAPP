@@ -38,7 +38,7 @@ The app is scratchbuilt utilizing the Esri Leaflet Api.
 A rain map is required to determine estimated precipitation for catchment by rain harvesters.
 To do this, rain-gauges datasets are averaged over 6 years and an interpolated rain map is generated to estimate growing season precipitation across the city.
 Individual webpages for each neighbourhood are created to minimize processing power required to run the app and increase efficiency. To deal with the sheer scale of the Neighbourhood and Rooflines shapefiles, Esri ArcGIS was utilized to break down the file into individual shapefiles by neighbourhood. Indivdual catchment statistics are calculated for each building in every neighbourhood and recorded as attributes.
-A custom python script is developed to convert the 383 indivual neighbourhood and 383 roofline files to json, and generate linked individual webmaps with included custom built Potential2Grow calculator (Based off the Esri Leaflet-Measure Area Tool). The script is designed to fully recreated the User Interface, functionality and design for each neighbourhood and link them to the master neighbourhood map on the main page.
+A custom python script was developed to convert the 383 indivual neighbourhood and 383 roofline files to json, and generate linked individual webmaps which included custom built Potential2Grow calculator (Based off the Esri Leaflet-Measure Area Tool). The script was designed to fully recreate the User Interface, architecture for each neighbourhood by linking them to the master neighbourhood map on the main page.
 Custom instructional infographics and icons are created using PiktoChart and Microsoft Powerpoint.
 
 
